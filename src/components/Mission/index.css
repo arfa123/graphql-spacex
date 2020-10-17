@@ -1,0 +1,53 @@
+.MissionsCont {
+	padding: 20px;
+}
+
+.ColorBox {
+	float: left;
+	width: 30px;
+	height: 20px;
+	margin-right: 10px;
+}
+
+.BlueBgColor {
+	background: blue;
+}
+
+.RedBgColor {
+	background: red;
+}
+
+.BlueColor {
+	color: blue;
+}
+
+.RedColor {
+	color: red;
+}
+
+.MissionBox {
+	background-color: #D3D3D3;
+	padding: 20px;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.MissionNameCont {
+	display: flex;
+}
+
+.MissionBox h2 {
+	margin: 0
+}
+
+.DetailsBtn {
+	display: inline-block;
+	background-color: #2F4F4F;
+	border: none;
+	border-radius: 5px;
+	padding: 8px 15px;
+	color: #ffffff;
+	text-align: center;
+	text-decoration: none;
+}
