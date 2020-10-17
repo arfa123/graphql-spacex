@@ -1,5 +1,7 @@
 # GraphQL SpaceX Web App
 
+### Project Url: http://spacexgraphql.surge.sh/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
