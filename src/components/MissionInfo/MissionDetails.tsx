@@ -14,7 +14,7 @@ const MissionDetails: React.FC<Props> = ({ data }) => {
 				{data.launch?.links?.flickr_images?.map((image, i) => {
 					return (
 						<div key={i} className="ImageCont">
-							<img className="MissionImage" src={image || ""} />
+							<img alt="" className="MissionImage" src={image || ""} />
 						</div>
 					);
 				})}
